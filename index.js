@@ -124,10 +124,10 @@ desktopNavs[4].addEventListener("mouseout", (eve)=>{
 let img = document.querySelector(".slide_image");
 let imgOverlay = document.querySelector(".slide_imageOverlay");
 let imgs = [
-    "..images/image-product-1.jpg",
-    "..images/image-product-2.jpg",
-    "..images/image-product-3.jpg",
-    "..images/image-product-4.jpg",
+    ".images/image-product-1.jpg",
+    ".images/image-product-2.jpg",
+    ".images/image-product-3.jpg",
+    ".images/image-product-4.jpg",
 ]
 let thumbnails= document.querySelectorAll(".slide");
 let thumbnailsOverlay= document.querySelectorAll(".slide_img");
